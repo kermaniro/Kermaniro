@@ -102,16 +102,16 @@ When I'm not writing plugins, I'm deep in terminal sessions managing Linux serve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kermaniro&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&border_color=FF8C00&hide_border=false" alt="GitHub Stats" height="195"/>
+<img src="https://github-readme-stats-gamma-five-98.vercel.app/api?username=kermaniro&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&border_color=FF8C00&hide_border=false" alt="GitHub Stats" height="195"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kermaniro&theme=dark&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&border=FF8C00" alt="GitHub Streak" height="195"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kermaniro&layout=compact&theme=dark&bg_color=0d1117&title_color=FF8C00&text_color=c9d1d9&border_color=FF8C00" alt="Top Languages" height="195"/>
+<img src="https://github-readme-stats-gamma-five-98.vercel.app/api/top-langs/?username=kermaniro&layout=compact&theme=dark&bg_color=0d1117&title_color=FF8C00&text_color=c9d1d9&border_color=FF8C00" alt="Top Languages" height="195"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kermaniro&theme=darkhub&no-frame=true&column=7&margin-w=10&title_color=FF8C00" alt="Trophies"/>
+<img src="https://github-profile-trophy-rose-nu.vercel.app/?username=kermaniro&theme=darkhub&no-frame=true&column=7&margin-w=10&title_color=FF8C00" alt="Trophies"/>
 
 </div>
 
