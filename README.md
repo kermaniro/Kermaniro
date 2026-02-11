@@ -1,30 +1,141 @@
-<h1 align="center">Hi 👋, I'm Damien</h1>
-<h3 align="center">A Quebecker nerd</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemanied" alt="lemanied" /></a> </p>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   > whoami                                                       ║
+║   kermaniro — Game Server Engineer / Software Dev / Project Lead ║
+║                                                                  ║
+║   > echo $MOTTO                                                  ║
+║   "A nerd doing nerd things." 🧡                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-- 🧑🏻‍💻 I’m currently working on **Minecraft plugins**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AE+Game+Server+Engineer;%F0%9F%94%A7+DevOps+%26+Sysadmin;%F0%9F%9A%80+Building+HytaleHQ;%F0%9F%90%A7+Linux+Enthusiast;%F0%9F%87%A8%F0%9F%87%A6+Made+in+Qu%C3%A9bec" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Frontend**
+</div>
 
-- and also **local AI Chatbot**
+---
 
-- 👨‍💻 All of my public projects are available here [on GitHub](on GitHub)
+### `> cat about.txt`
 
-- 📫 How to reach me **@Manied on Discord**
+```properties
+name     = Damien
+alias    = Kermaniro
+location = Québec, Canada 🇨🇦
+os       = Fedora 43 KDE
+editors  = VS Code, JetBrains IDEs
+status   = Building HytaleHQ — fully committed 🔥
+```
 
-- ⚡ Fun fact **Poutine is the best meal 🍽️**
+I'm a **Game Server Engineer** and **Software Developer** from Québec. I build, break, and rebuild game servers for a living. From Minecraft SMPs to Garry's Mod communities to my current flagship project — **[HytaleHQ](https://hytalehq.org)** — I've been running multiplayer infrastructure for years.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+When I'm not writing plugins, I'm deep in terminal sessions managing Linux servers, configuring Docker containers, or automating deployments.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kermaniro&show_icons=true&theme=dark&locale=en&layout=compact" alt="kermaniro" /></p>
+### `> ls skills/`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kermaniro&show_icons=true&theme=dark&locale=en" alt="kermaniro" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kermaniro&" alt="kermaniro" /></p>
+#### `languages/`
 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### `tools & platforms/`
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### `systems/`
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+### `> cat projects/current.log`
+
+```
+🔶 HytaleHQ — hytalehq.org
+├── Custom Hytale server framework & plugins
+├── Full-stack infrastructure: Docker, Pterodactyl, Nginx
+├── Economy systems, lootboxes, rank management
+└── Status: IN ACTIVE DEVELOPMENT ██████████░░ 
+```
+
+### `> cat projects/history.log`
+
+```
+📦 Minecraft SMP Plugins
+├── Custom Java plugins (Paper & Fabric)
+├── Economy, voting systems, server management
+└── Multiple public & private servers
+
+🎮 Garry's Mod Servers
+├── Community server administration
+└── Custom addons & configuration
+
+🔧 Freelance Projects
+└── Private server & plugin work for clients
+```
+
+---
+
+### `> neofetch --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kermaniro&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&border_color=FF8C00&hide_border=false" alt="GitHub Stats" height="195"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kermaniro&theme=dark&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&border=FF8C00" alt="GitHub Streak" height="195"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kermaniro&layout=compact&theme=dark&bg_color=0d1117&title_color=FF8C00&text_color=c9d1d9&border_color=FF8C00" alt="Top Languages" height="195"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kermaniro&theme=darkhub&no-frame=true&column=7&margin-w=10&title_color=FF8C00" alt="Trophies"/>
+
+</div>
+
+---
+
+### `> cat contact.conf`
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-@Kermaniro-%23FF8C00?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Matrix](https://img.shields.io/badge/Matrix-@manied:matrix.org-%23FF8C00?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@manied:matrix.org)
+[![HytaleHQ Discord](https://img.shields.io/badge/HytaleHQ-Join_Server-%23FF8C00?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hytalehq)
+[![Website](https://img.shields.io/badge/HytaleHQ.org-Website-%23FF8C00?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://hytalehq.org)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> echo "Poutine is the best meal. No debate." 🍟🧀
+```
+
+<img src="https://komarev.com/ghpvc/?username=kermaniro&style=for-the-badge&color=FF8C00&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
