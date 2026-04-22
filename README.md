@@ -30,7 +30,7 @@ focus    = Sysadmin, VPS config, self-hosted AI
 status   = Open to new projects 🚀
 ```
 
-I'm a **Linux sysadmin**, **developer**, and **AI tinkerer** from Québec. I build, run, and troubleshoot things — Minecraft plugins, full-stack server infrastructure, and increasingly the AI tooling around them. Past life: lead dev on **HytaleHQ**, a Hytale community running on custom plugins, Docker + Pterodactyl, and everything in between.
+I'm a **Linux sysadmin**, **developer**, and **AI tinkerer** from Québec. I build, run, and troubleshoot things, coding Minecraft plugins, full-stack server infrastructure, and increasingly the AI tooling around them. Past life: lead dev on **HytaleHQ**, a Hytale community running on custom plugins, Docker + Pterodactyl, and everything in between.
 
 These days I'm deep in **self-hosted AI** (local LLMs via Ollama, MCP server integrations with Claude Desktop and Claude Code), running my own **homelab** on Docker + Caddy + Tailscale, and taking freelance work around **VPS configuration**, **plugin dev**, and **Linux sysadmin**.
 
@@ -106,7 +106,7 @@ These days I'm deep in **self-hosted AI** (local LLMs via Ollama, MCP server int
 ### `> cat projects/history.log`
 
 ```
-🔶 HytaleHQ — Hytale Community
+🔶 HytaleHQ - Hytale Community
 ├── Lead developer on the custom plugin framework
 ├── Economy, per-world inventories, hub selector, utilities
 └── Full-stack infra: Docker, Pterodactyl, Nginx
