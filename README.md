@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   > whoami                                                       ║
-║   kermaniro — Game Server Engineer / Software Dev / Project Lead ║
+║   kermaniro — Linux Sysadmin / AI Tinkerer / Freelance Dev       ║
 ║                                                                  ║
 ║   > echo $MOTTO                                                  ║
 ║   "A nerd doing nerd things." 🧡                                 ║
@@ -12,7 +12,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AE+Game+Server+Engineer;%F0%9F%94%A7+DevOps+%26+Sysadmin;%F0%9F%9A%80+Building+HytaleHQ;%F0%9F%90%A7+Linux+Enthusiast;%F0%9F%87%A8%F0%9F%87%A6+Made+in+Qu%C3%A9bec" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=%F0%9F%94%A7+Linux+Sysadmin+%26+VPS+Config;%F0%9F%A4%96+Self-hosted+AI+%26+MCP;%F0%9F%8E%AE+Game+Server+Engineer;%F0%9F%90%A7+Docker+%26+Homelab+Enjoyer;%F0%9F%94%93+Open+to+Freelance;%F0%9F%87%A8%F0%9F%87%A6+Made+in+Qu%C3%A9bec" alt="Typing SVG" />
 
 </div>
 
@@ -24,14 +24,15 @@
 name     = Damien
 alias    = Kermaniro
 location = Québec, Canada 🇨🇦
-os       = Fedora 43 KDE
+os       = Windows 11 (+ WSL) / Ubuntu on the server
 editors  = VS Code, JetBrains IDEs
-status   = Building HytaleHQ — fully committed 🔥
+focus    = Sysadmin, VPS config, self-hosted AI
+status   = Open to new projects 🚀
 ```
 
-I'm a **Game Server Engineer** and **Software Developer** from Québec. I build, break, and rebuild game servers for a living. From Minecraft SMPs to Garry's Mod communities to my current flagship project — **[HytaleHQ](https://hytalehq.org)** — I've been running multiplayer infrastructure for years.
+I'm a **Linux sysadmin**, **developer**, and **AI tinkerer** from Québec. I build, run, and troubleshoot things — Minecraft plugins, full-stack server infrastructure, and increasingly the AI tooling around them. Past life: lead dev on **HytaleHQ**, a Hytale community running on custom plugins, Docker + Pterodactyl, and everything in between.
 
-When I'm not writing plugins, I'm deep in terminal sessions managing Linux servers, configuring Docker containers, or automating deployments.
+These days I'm deep in **self-hosted AI** (local LLMs via Ollama, MCP server integrations with Claude Desktop and Claude Code), running my own **homelab** on Docker + Caddy + Tailscale, and taking freelance work around **VPS configuration**, **plugin dev**, and **Linux sysadmin**.
 
 ---
 
@@ -46,25 +47,35 @@ When I'm not writing plugins, I'm deep in terminal sessions managing Linux serve
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### `tools & platforms/`
+#### `infrastructure & sysadmin/`
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### `AI & LLMs/`
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5B4FC7?style=for-the-badge)
 
 #### `systems/`
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
@@ -73,16 +84,33 @@ When I'm not writing plugins, I'm deep in terminal sessions managing Linux serve
 ### `> cat projects/current.log`
 
 ```
-🔶 HytaleHQ — hytalehq.org
-├── Custom Hytale server framework & plugins
-├── Full-stack infrastructure: Docker, Pterodactyl, Nginx
-├── Economy systems, lootboxes, rank management
-└── Status: IN ACTIVE DEVELOPMENT ██████████░░ 
+🏠 Self-hosted Homelab
+├── Ubuntu VPS running Docker Compose stack
+├── Caddy reverse proxy + Tailscale Funnel for external access
+├── Outline (wiki) + Planka (kanban) + Postgres + Redis
+└── Status: RUNNING 24/7 ████████████
+
+🤖 Local AI & MCP Integration
+├── Ollama running Qwen3 with full GPU offload (AMD RX 6800)
+├── Claude Desktop + Claude Code wired to custom MCP servers
+├── Bridging stdio MCP on Windows via mcp-remote proxy
+└── Status: ACTIVE TINKERING ██████████░░
+
+🔧 Freelance (Open)
+├── VPS provisioning, hardening, reverse proxy setup
+├── Docker / Docker Compose deployments
+├── Minecraft server + plugin work
+└── Status: ACCEPTING CONTRACTS 🟢
 ```
 
 ### `> cat projects/history.log`
 
 ```
+🔶 HytaleHQ — Hytale Community
+├── Lead developer on the custom plugin framework
+├── Economy, per-world inventories, hub selector, utilities
+└── Full-stack infra: Docker, Pterodactyl, Nginx
+
 📦 Minecraft SMP Plugins
 ├── Custom Java plugins (Paper & Fabric)
 ├── Economy, voting systems, server management
@@ -121,10 +149,9 @@ When I'm not writing plugins, I'm deep in terminal sessions managing Linux serve
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-@Kermaniro-%23FF8C00?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-@Kermaniro-%23FF8C00?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kermaniro)
 [![Matrix](https://img.shields.io/badge/Matrix-@manied:matrix.org-%23FF8C00?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@manied:matrix.org)
-[![HytaleHQ Discord](https://img.shields.io/badge/HytaleHQ-Join_Server-%23FF8C00?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hytalehq)
-[![Website](https://img.shields.io/badge/HytaleHQ.org-Website-%23FF8C00?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://hytalehq.org)
+[![Portfolio](https://img.shields.io/badge/damienthumerel.com-Portfolio-%23FF8C00?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://damienthumerel.com)
 
 </div>
 
