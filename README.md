@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   > whoami                                                       ║
-║   kermaniro — Linux Sysadmin / AI Tinkerer / Freelance Dev       ║
+║   Manied — Linux Sysadmin / AI Tinkerer / Freelance Dev       ║
 ║                                                                  ║
 ║   > echo $MOTTO                                                  ║
 ║   "A nerd doing nerd things." 🧡                                 ║
@@ -22,7 +22,7 @@
 
 ```properties
 name     = Damien
-alias    = Kermaniro
+alias    = Manied
 location = Québec, Canada 🇨🇦
 os       = Windows 11 (+ WSL) / Ubuntu on the server
 editors  = VS Code, JetBrains IDEs
@@ -130,16 +130,16 @@ These days I'm deep in **self-hosted AI** (local LLMs via Ollama, MCP server int
 
 <div align="center">
 
-<img src="https://github-readme-stats-gamma-five-98.vercel.app/api?username=kermaniro&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&border_color=FF8C00&hide_border=false" alt="GitHub Stats" height="195"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kermaniro&theme=dark&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&border=FF8C00" alt="GitHub Streak" height="195"/>
+<img src="https://github-readme-stats-gamma-five-98.vercel.app/api?username=lemanied&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&border_color=FF8C00&hide_border=false" alt="GitHub Stats" height="195"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lemanied&theme=dark&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&border=FF8C00" alt="GitHub Streak" height="195"/>
 
-<img src="https://github-readme-stats-gamma-five-98.vercel.app/api/top-langs/?username=kermaniro&layout=compact&theme=dark&bg_color=0d1117&title_color=FF8C00&text_color=c9d1d9&border_color=FF8C00" alt="Top Languages" height="195"/>
+<img src="https://github-readme-stats-gamma-five-98.vercel.app/api/top-langs/?username=lemanied&layout=compact&theme=dark&bg_color=0d1117&title_color=FF8C00&text_color=c9d1d9&border_color=FF8C00" alt="Top Languages" height="195"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy-rose-nu.vercel.app/?username=kermaniro&theme=darkhub&no-frame=true&column=7&margin-w=10&title_color=FF8C00" alt="Trophies"/>
+<img src="https://github-profile-trophy-rose-nu.vercel.app/?username=lemanied&theme=darkhub&no-frame=true&column=7&margin-w=10&title_color=FF8C00" alt="Trophies"/>
 
 </div>
 
@@ -149,7 +149,7 @@ These days I'm deep in **self-hosted AI** (local LLMs via Ollama, MCP server int
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-@Kermaniro-%23FF8C00?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kermaniro)
+[![Discord](https://img.shields.io/badge/Discord-@Manied-%23FF8C00?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/manied)
 [![Matrix](https://img.shields.io/badge/Matrix-@manied:matrix.org-%23FF8C00?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@manied:matrix.org)
 [![Portfolio](https://img.shields.io/badge/damienthumerel.com-Portfolio-%23FF8C00?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://damienthumerel.com)
 
@@ -163,6 +163,6 @@ These days I'm deep in **self-hosted AI** (local LLMs via Ollama, MCP server int
 > echo "Poutine is the best meal. No debate." 🍟🧀
 ```
 
-<img src="https://komarev.com/ghpvc/?username=kermaniro&style=for-the-badge&color=FF8C00&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=lemanied&style=for-the-badge&color=FF8C00&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
