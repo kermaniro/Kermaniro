@@ -4,10 +4,10 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   > whoami                                                       ║
-║   Manied — Linux Sysadmin / AI Tinkerer / Freelance Dev       ║
+║   Manied — Linux Sysadmin / AI Tinkerer / Freelance Dev          ║
 ║                                                                  ║
 ║   > echo $MOTTO                                                  ║
-║   "A nerd doing nerd things." 🧡                                 ║
+║   "A nerd doing nerd things."🧡                                  ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
